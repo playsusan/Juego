@@ -1,0 +1,226 @@
+0.0.0&&
+Menu
+1- Nuevo juego>>0.0.0>>
+2- Continuar historia>>0.0.0>>
+3- Salir>>0.0.0>> >> >> 
+*1.0.0&&
+1- Revisar el celular>>32.0.0>>
+2- Preparse para salir a la calle>>1.2.0>>
+3- Quedarte en cama>>31.0.0>>
+4- Salir del juego>>final>> >>
+*1.2.0&&
+1- Iras a tomar locomocion>>2.1.0>>
+2- Te arrepientes de salir y te quedas en casa>>31.0.0>>
+3- Sales de tu casa con destino desconocido esperando que lo mejor suceda>>31.0.0>>
+4- Salir del juego>>final>>
+*2.1.0&&
+1- No te bajas y decides visitar a una amiga>>31.0.0>>
+2- Ir a clases>>3.3.0>>
+3- Retroceder al evento anterior>>1.2.0>>
+4- Salir del juego>>final>>
+*3.3.0&&
+1- Divagar en lo que tienes que hacer>>31.0.0>>
+2- Enfocarte en clases y estudiar>>4.2.0>>
+3- Retroceder al evento anterior>>2.1.0>>
+4- Salir del juego>>final>>
+*4.2.0&&
+1- Ir donde la china a comer>>5.1.0>>
+2- Ir a tu casa a almorzar>>31.0.0>>
+3- Retroceder al evento anterior>>3.3.0>>
+4- Salir del juego>>final>>
+*5.1.0&&
+1- No contestar y pedir otro completo>>31.0.0>>
+2- Contestar el telefono>>6.2.0>>
+3- Lanzar el telefono>>32.0.0>>
+4- Retroceder al evento anterior>>4.2.0>>
+5- Salir del juego
+*6.2.0&&
+1- Inventar una excusa sobre diarrea explosiva>>31.0.0>>
+2- Aceptar la reunion para el dia siguiente>>7.3.0>>
+3- Retroceder al evento anterior>>5.1.0>>
+4- Salir del juego>>final>>
+*7.3.0&&
+1- Te diriges a casa a cuidar tus Plantas de Maria Juana>>8.1.0>>
+2- Te devuelves a pedir otro completo>>31.0.0>>
+3- Retroceder al evento anterior>>6.2.0>>
+4- Salir del juego>>final>>
+*8.1.0&&
+1- Dormir>>9.1.0>>
+2- Jugar Lol>>31.0.0>>	
+3- Fumarse 10 caños e irse a dormir>>33.0.0>>
+4- Retroceder al evento anterior>>7.3.0>>
+5- Salir del juego
+*9.1.0&&
+1- Decides quedarte en cama y no hacer nada en todo el dia, asi que pides mucha comida Delivery>>31.0.0>>
+2- Te levantas para juntarte con tu cita Gabi>>10.3.0>>
+3- Retroceder al evento anterior>>8.1.0>>
+4- Salir del juego>>final>>
+*10.3.0&&
+1- Haces que la escuchas>>31.0.0>>
+2- Golpeas una mosca que pasa muy cerca de su cara>>11.2.1>>
+3- La escuchas atentamente >>11.3.0>>
+4- Retroceder al evento anterior>>9.1.0>>
+5- Salir del juego
+*11.3.0&&
+1- En otra vida quizas>>31.0.0>>
+2- Aceptas el pololear sin estar seguro>>12.2.0>>
+3- Le dices: ¿Que no es Superman? y sales corriendo>>31.0.0>>
+4- Salir del juego>>final>> >>
+*12.2.0&&
+1- Vuelve la mosca, te vas al mas alla>>11.2.1>>
+2- Te niegas rotundamente porque amas solo la Maria>>31.0.0>>
+3- Aceptas vender y cultivar Hongos Psylocybes>>13.3.0>>
+4- Retroceder al evento anterior>>11.3.0>>
+5- Salir del juego
+*13.3.0&&
+1- Te levantas con la energia del cosmos a cultivar Honguitos y a cosechar tus plantas>>14.1.0>>
+2- Solo quieres seguir durmiendo>>33.0.0>>
+3- Te pedas y tratas de ventilar la cama>>31.0.0>>
+4- Retroceder al evento anterior>>12.2.0>>
+5- Salir del juego
+*14.1.0&&
+1- No, por ningun motivo>>20.1.0>>
+2- Si, sin dudarlo>>15.2.0>>
+3- Dudas, pero cuando vas a tomar tu celular, cortan. Olvidas la llamada>>31.0.0>>
+4- Retroceder al evento anterior>>13.3.0>>
+5- Salir del juego
+*15.2.0&&
+1- Si, si tengo. ¿Donde nos juntamos?>>16.2.0>>
+2- No soy Leon>>31.0.0>>
+3- Retroceder al evento anterior>>14.1.0>>
+4- Salir del juego>>final>>
+*16.2.0&&
+1- Aceptas el cambio y te diriges alla>>17.1.0>>
+2- Piensas en todo lo que te podria pasar si te juntas con esta persona>>31.0.0>>
+3- Retroceder al evento anterior>>15.2.0>>
+4- Salir del juego>>final>>
+*17.1.0&&
+1- Lo sigues en silencio, tienes miedo>>18.1.0>>
+2- Bostezas y quieres dormir>>33.0.0>>
+3- Aplicas un golpe que no sabes si funcionara, pero luchas>>31.0.0>>
+4- Retroceder al evento anterior>>16.2.0>>
+5- Salir del juego
+*18.1.0&&
+1- Te enojas y arrojas tu celular>>32.0.0>>
+2- Te intentas arrancar>>31.0.0>>
+3- Esperas sentado>>19.3.0>>
+4- Retroceder al evento anterior>>17.1.0>>
+5- Salir del juego
+*19.3.0&&
+1- Te vas inmediatamente a tu casa sin pensarlo, como sea>>20.1.0>>
+2- Arrojas algo para descargar tu ira>>32.0.0>>
+3- Te vas a la casa del amigo mas cercano>>31.0.0>>
+4- Retroceder al evento anterior>>18.1.0>>
+5- Salir del juego
+*20.1.0&&
+1- Iras al terminal a tomar cualquier bus a cualquier parte>>31.0.0>>
+2- Iras a clases>>21.2.0>>
+3- Iras al cerro>>31.0.0>>
+4- Retroceder al evento anterior>>19.3.0>>
+5- Salir del juego
+*21.2.0&&
+1- Iras con ella para poder conocerla>>22.1.0>>
+2- No iras porque no bebes cerveza>>31.0.0>>
+3- No iras porque no hay peliculas buenas>>16.2.0>>
+4- Retroceder al evento anterior>>20.1.0>>
+5- Salir del juego
+*22.1.0&&
+1- Hay una mosca que no te deja dormir la intentas golpear>>11.2.1>>
+2- No te quedas porque tienes cosas que hacer>>31.0.0>>
+3- Te quedas a conversar un rato mas>>23.3.0>>
+4- Salir del juego>>final>> >>
+*23.3.0&&
+1- Contestaras el telefono>>24.1.0>>
+2- No contestas>>31.0.0>>
+3- Tiras el telefono muy lejos>>32.0.0>>
+4- Retroceder al evento anterior>>22.1.0>>
+5- Salir del juego
+*24.1.0&&
+1- Ir en bicicleta a comprar el pan>>1.2.0>>
+2- Juntarte con tu polola para terminar>>25.2.0>>
+3- Quedarte en la casa meditando y faltar a la junta con tu polola>>31.0.0>>
+4- Retroceder al evento anterior>>23.3.0>>
+5- Salir del juego
+*25.2.0&&
+1- Tienes bastante en que pensar asi que decides que mejor no>>31.0.0>>
+2- Te detienes y tiras el telefono>>32.0.0>>
+3- Aceptas volver a ver a tu compañera>>26.3.0>>
+4- Retroceder al evento anterior>>24.1.0>>
+5- Salir del juego
+*26.3.0&&
+1- Le dices que sientes lo mismo>>27.1.0>>
+2- Te quedas en silencio>>31.0.0>>
+3- Las moscas te distraen, siempre las moscas hacen lo mismo>>11.2.1>>
+4- Retroceder al evento anterior>>25.2.0>>
+5- Salir del juego
+*27.1.0&&
+1- Decides dejar de pensar en los demas y dedicarte al dinero>>31.0.0>>
+2- Decides dedicarte a cuidar a tu padre y dejar todos los 'NEGOCIOS'>>28.2.0>>
+3- Basta necesito una siesta para recuperar fuerzas>>33.0.0>>
+4- Retroceder al evento anterior>>26.3.0>>
+5- Salir del juego
+*28.2.0&&
+1- Aceptar el pololeo porque te das cuenta que quieres pasar el resto de tu vida juntos>>29.1.0>>
+2- Bzzzzzzzzz BZZzz ...malditas moscas>>11.2.1>>
+3- Mi pecho se siente un poco raro...>>31.0.0>>
+4- Retroceder al evento anterior>>27.1.0>>
+5- Salir del juego
+*29.1.0&&
+1- Tomas tu celuar para sacar una selfi pero...>>32.0.0>>
+2- Hay no me siento raro...>>31.0.0>>
+3- Le dices a tu padre que LO AMAS>>30.3.0>>
+4- Retroceder al evento anterior>>28.2.0>>
+5- Salir del juego
+*30.3.0&&
+1- Salir del juego>>final>> >> >> >> >> >> >>
+*31.0.0&&
+1- Salir del juego>>final>> >> >> >> >> >> >>
+*32.0.0&&
+1- y...?>>1.0.0>>
+2- Salir del juego >>final>> >> >> >> >>
+*33.0.0&&
+1- zzz...zzz..zz..zz....z>>1.0.0>>
+2- Salir del juego >>final>> >> >> >> >>
+*34.0.0&&
+1- Salir del juego>>final>> >> >> >> >> >> >>
+*11.2.1&&
+1- Si claro.. debo estar tan drogado que escucho cosas>>12.1.1>>
+2- A mi tu no me das ordenes mosca y la "$#$"#>>34.0.0>>
+3- Salir del juego>>final>> >> >> >>
+*12.1.1&&
+1- Que demonios es esto??>>13.1.1>>
+2- KAWAIIIIII>>34.0.0>>
+3- Salir del juego>>final>> >> >> >>
+*13.1.1&&
+1- Genial...mmmm>>34.0.0>>
+2- Siento un increible poder que me rodea>>14.2.1>>
+3- Salir del juego>>final>> >> >> >>
+*14.2.1&&
+1- Tomas tu celular y llmas a un amigo para presumir>>34.0.0>>
+2- Tomas tu celular y lo arojas muy lejos>>15.2.1>>
+3- Salir del juego>>final>> >> >> >>
+*15.2.1&&
+1- Emmm no tengo problema con que sea un poco racista>>34.0.0>>
+2- Aceptas la mision de derrotar a Matu >>16.2.1>>
+3- Salir del juego>>final>> >> >> >>
+*16.2.1&&
+1- Luchas contra Matu>>17.1.1>>
+2- Decides comprar un completo>>34.0.0>>
+3- Salir del juego>>final>> >> >> >>
+*17.1.1&&
+1- Golpeas a Matu>>34.0.0>>
+2- Besas a Matu>>18.2.1>>
+3- Salir del juego>>final>> >> >> >>
+*18.2.1&&
+1- Haces tu Grito especial>>19.1.1>>
+2- Duermes>>33.0.0>>
+3- Salir del juego>>final>> >> >> >>
+*19.1.1&&
+1- Vas a Celebrar con tus Amigos>>20.1.1>>
+2- Estas un poco cansado y decides irte a dormir>>20.2.1>>
+3- Salir del juego>>final>> >> >> >>
+*20.1.1&&
+1- Salir del juego>>final>> >> >> >> >> >> >>
+*20.2.1&&
+1- Salir del juego>>final>> >> >> >> >> >> >>
+*
